@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aswin Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <a href="https://twitter.com/achuzz_66" target="blank"><img src="https://img.shields.io/twitter/follow/achuzz_66?logo=twitter&style=for-the-badge" alt="achuzz_66" /></a> </p>
 
-- 🔭 I’m currently working on **Guess the number game using python**
+-# 🔭 I’m currently working on **Guess the number game using python**
 
-- 🌱 I’m currently learning **pyton**
+- 🌱 I’m currently learning **pyton django**
 
 - 📫 How to reach me **rajaswin179@gmail.com**
 
