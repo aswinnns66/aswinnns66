@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/achuzz_66" target="blank"><img src="https://img.shields.io/twitter/follow/achuzz_66?logo=twitter&style=for-the-badge" alt="achuzz_66" /></a> </p>
 
--# 🔭 I’m currently working on **Guess the number game using python**
+
 
 - 🌱 I’m currently learning **pyton django**
 
