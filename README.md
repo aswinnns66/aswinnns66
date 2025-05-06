@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **pyton django**
+- 🌱 I’m currently learning **Networking Basics**
 
 - 📫 How to reach me **rajaswin179@gmail.com**
 
